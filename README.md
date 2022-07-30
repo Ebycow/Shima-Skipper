@@ -1,4 +1,4 @@
-#動作確認中
+# 動作確認中
 
 # Shima-Skipper
 dアニメストアでゆるキャン△のOP-EDを自動でスキップするユーザスクリプト
@@ -11,3 +11,6 @@ dアニメストアでゆるキャン△のOP-EDを自動でスキップする�
 
 # 既知の不具合
 確認中
+
+# 関連スクリプト
+[Endless-Shimarin](https://github.com/Ebycow/Endless-Shimarin) - 無限しまりん
