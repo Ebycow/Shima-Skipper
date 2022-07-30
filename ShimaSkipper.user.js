@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Shima Skipper
 // @namespace    https://ebycow.net/
-// @version      0.1
+// @version      0.2
 // @description  ＼ｺﾝﾆﾁﾊ／
 // @author       Ebycow <https://ebycow.net>
 // @match        https?://animestore.docomo.ne.jp/animestore/sc_d_pc?partId=*
